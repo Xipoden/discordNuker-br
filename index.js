@@ -3,8 +3,6 @@ const client = new Discord.Client();
 const config = require('./config.json')
 var colors = require('colors');
 const { clear } = require('console');
-const { start } = require('repl');
-
 
 client.on('ready', () => {
     clear()
