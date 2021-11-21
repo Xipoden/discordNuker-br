@@ -1,0 +1,8 @@
+[ Caso queira usar o bot siga os seguintes passos ]
+
+1- Execute o NodeJS
+2- Execute o Instalar.bat
+3- Configure o bot em config.json
+4- Abra o AbrirBot.bat e use-o!
+
+[ Caso queira usar o bot siga os seguintes passos ]

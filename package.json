@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "git": "^0.1.5"
+  }
+}
